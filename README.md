@@ -15,7 +15,11 @@ Passionate about **web development**, **Agentic AI**, and **DSA**. Currently hac
 - ⚡ **Fun Fact**: I debug code like a mechanic—break it down, fix the core issue, rev it up!
 
 <div align="center">
-  ![Snake animation](https://github.com/prsdx/prsdx/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/prsdx/prsdx/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/prsdx/prsdx/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/prsdx/prsdx/blob/output/github-snake.svg" />
+  </picture>
 </div>
 
 ### 🔥 Top Projects
