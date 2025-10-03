@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shubham+(prsdx);Agentic+AI+Builder+%26+DSA+Warrior;MERN+Full-Stack+%26+CP+Grinder;Let's+craft+something+legendary!+%F0%9F%A4%96" alt="Typing SVG" />
   <br><br>
@@ -103,3 +102,4 @@ Categorized like a pro—proficient in AI/DSA, familiar with full-stack.
 Made with ❤️ & dynamic flair. Last updated: October 04, 2025.
 ```
 
+ 🚀
