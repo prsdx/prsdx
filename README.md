@@ -1,3 +1,11 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Shubham+(prsdx);Agentic+AI+Builder+%26+DSA+Warrior;MERN+Full-Stack+%26+CP+Grinder;Let's+craft+something+legendary!+%F0%9F%A4%96" alt="Typing SVG" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=prsdx&show_icons=true&theme=radical&hide_border=true&count_private=true" width="51%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prsdx&layout=compact&theme=radical&hide_border=true" width="41%" />
+</div>
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40" alt="Waving hand" />  
 # 💫 About Me:
 Passionate about **Agentic AI**, **DSA**, and **web dev**. Currently building smart agents that research, reason, and act—like my LangChain + Gemini project.<br><br>- 🔭 **Currently On**: AI agents with tool-calling; MERN prototypes for hackathons.<br>- 🌱 **Learning**: Advanced CP (graphs/trees); scaling AI workflows.<br>- 💬 **Ask Me About**: LangChain agents, LeetCode puzzles, or MERN tips.<br>- 📫 **Reach Out**: [prsdx.dev@gmail.com](mailto:prsdx.dev@gmail.com) | [LinkedIn](https://linkedin.com/in/prasadshubham)<br>- ⚡ **Fun Fact**: Code is like electrons—full of potential and always moving! (Why? Quantum vibes. 😎)
 
