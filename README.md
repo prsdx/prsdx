@@ -16,9 +16,9 @@ Passionate about **web development**, **Agentic AI**, and **DSA**. Currently hac
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/prsdx/prsdx/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/prsdx/prsdx/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/prsdx/prsdx/blob/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/prsdx/prsdx/blob/main/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/prsdx/prsdx/blob/main/dist/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/prsdx/prsdx/blob/main/dist/github-snake.svg" />
   </picture>
 </div>
 
