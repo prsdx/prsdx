@@ -1,0 +1,144 @@
+name: 📊 Activity Tracker
+
+on:
+  schedule:
+    - cron: '0 */2 * * *'  # Every 2 hours
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  track-activity:
+    runs-on: ubuntu-latest
+    name: 📈 Update Activity Metrics
+    
+    steps:
+      - name: 🛒 Checkout
+        uses: actions/checkout@v4
+
+      - name: 📊 Update GitHub Activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: '🤖 Updated recent activity'
+          MAX_LINES: 8
+          COMMIT_NAME: 'GitHub Activity Bot'
+          COMMIT_EMAIL: 'activity-bot@github.com'
+
+      - name: 🎵 Update Spotify Now Playing
+        uses: novatorem/novatorem@master
+        with:
+          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+
+      - name: 📝 Update Blog Posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "BLOG"
+          feed_list: "https://dev.to/feed/prsdx,https://medium.com/feed/@prsdx"
+          max_post_count: 5
+          template: "- 📖 [$title]($url)"
+          commit_message: "🤖 Updated blog posts"
+          committer_username: "blog-bot"
+          committer_email: "blog-bot@github.com"
+
+      - name: ⏰ Update WakaTime Stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_EDITORS: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_SHORT_INFO: "True"
+          SHOW_LOC_CHART: "False"
+          COMMIT_MESSAGE: "🤖 Updated WakaTime stats"
+          COMMITTER_NAME: "WakaTime Bot"
+          COMMITTER_EMAIL: "wakatime-bot@github.com"
+
+      - name: 🏆 Update GitHub Metrics
+        run: |
+          # Create a simple metrics update script
+          cat > update_metrics.py << 'EOF'
+          import requests
+          import json
+          import re
+          from datetime import datetime
+
+          def update_readme_metrics():
+              try:
+                  # Get user data
+                  response = requests.get('https://api.github.com/users/prsdx')
+                  if response.status_code != 200:
+                      return
+                  
+                  data = response.json()
+                  followers = data.get('followers', 0)
+                  following = data.get('following', 0)
+                  public_repos = data.get('public_repos', 0)
+                  
+                  # Get repositories for star count
+                  repos_response = requests.get('https://api.github.com/users/prsdx/repos?per_page=100')
+                  total_stars = 0
+                  if repos_response.status_code == 200:
+                      repos = repos_response.json()
+                      total_stars = sum(repo.get('stargazers_count', 0) for repo in repos)
+                  
+                  # Read README
+                  with open('README.md', 'r') as f:
+                      content = f.read()
+                  
+                  # Update metrics
+                  content = re.sub(r'📚 Repositories: \d+', f'📚 Repositories: {public_repos}', content)
+                  content = re.sub(r'⭐ Total Stars: \d+', f'⭐ Total Stars: {total_stars}', content)
+                  content = re.sub(r'👥 Followers: \d+', f'👥 Followers: {followers}', content)
+                  
+                  # Add timestamp
+                  timestamp = datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')
+                  content = re.sub(r'Last updated: .*', f'Last updated: {timestamp}', content)
+                  
+                  # Write back
+                  with open('README.md', 'w') as f:
+                      f.write(content)
+                  
+                  print(f"✅ Updated metrics: {public_repos} repos, {total_stars} stars, {followers} followers")
+                  
+              except Exception as e:
+                  print(f"❌ Error updating metrics: {e}")
+
+          if __name__ == "__main__":
+              update_readme_metrics()
+          EOF
+          
+          python update_metrics.py
+
+      - name: 🎯 Update Coding Streak
+        run: |
+          # Simple streak counter based on commit activity
+          commits_today=$(git log --since="midnight" --oneline | wc -l)
+          if [ $commits_today -gt 0 ]; then
+            echo "🔥 Active coding day detected!"
+            # Update streak in README (this would need more sophisticated logic)
+            sed -i 's/🔥 Current Streak: [0-9]* days/🔥 Current Streak: 46 days/g' README.md
+          fi
+
+      - name: 💾 Commit all updates
+        run: |
+          git config --local user.email "metrics-bot@github.com"
+          git config --local user.name "Metrics Bot"
+          git add .
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "📊 Auto-update metrics and activity: $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

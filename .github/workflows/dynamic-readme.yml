@@ -1,0 +1,129 @@
+name: 🔄 Dynamic README Updates
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'  # Every 3 hours
+    - cron: '0 0 * * *'    # Daily at midnight for quotes
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    name: 🚀 Auto-Update Profile
+    
+    steps:
+      - name: 🛒 Checkout
+        uses: actions/checkout@v4
+
+      - name: 📝 Update with latest blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "BLOG"
+          feed_list: "https://dev.to/feed/prsdx,https://medium.com/feed/@prsdx"
+          max_post_count: 5
+          template: "- 📖 [$title]($url) - $description"
+
+      - name: 🎯 Update with latest GitHub activity
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: '🤖 Updated GitHub activity'
+          MAX_LINES: 8
+
+      - name: 📊 Update WakaTime stats
+        uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SHOW_LINES_OF_CODE: "True"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_TIMEZONE: "True"
+          SHOW_EDITORS: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_SHORT_INFO: "True"
+          SHOW_LOC_CHART: "False"
+
+      - name: 🎲 Update daily quote
+        run: |
+          # Array of inspirational tech quotes
+          quotes=(
+            "The best way to predict the future is to invent it. - Alan Kay"
+            "Code is like humor. When you have to explain it, it's bad. - Cory House"
+            "First, solve the problem. Then, write the code. - John Johnson"
+            "Experience is the name everyone gives to their mistakes. - Oscar Wilde"
+            "In order to be irreplaceable, one must always be different. - Coco Chanel"
+            "Java is to JavaScript what car is to Carpet. - Chris Heilmann"
+            "Knowledge is power. - Francis Bacon"
+            "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday's code. - Dan Salomon"
+            "Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away. - Antoine de Saint-Exupery"
+            "Ruby is rubbish! PHP is phpantastic! - Nikita Popov"
+            "Code never lies, comments sometimes do. - Ron Jeffries"
+            "Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime. - Muhammad Waseem"
+            "If debugging is the process of removing software bugs, then programming must be the process of putting them in. - Edsger Dijkstra"
+            "99 little bugs in the code, 99 little bugs. Take one down, patch it around, 127 little bugs in the code. - Anonymous"
+            "Artificial Intelligence is no match for natural stupidity. - Anonymous"
+            "The future belongs to those who believe in the beauty of their dreams. - Eleanor Roosevelt"
+            "Innovation distinguishes between a leader and a follower. - Steve Jobs"
+            "The only way to do great work is to love what you do. - Steve Jobs"
+            "AI is the new electricity. - Andrew Ng"
+            "Machine learning is the last invention that humanity will ever need to make. - Nick Bostrom"
+          )
+          
+          # Get random quote
+          quote=${quotes[$RANDOM % ${#quotes[@]}]}
+          
+          # Update README with new quote
+          sed -i "s/### 🚀 .*/### 🚀 **\"$quote\"**/g" README.md
+          
+          # Get current date and time
+          current_time=$(date -u +"%Y-%m-%d %H:%M UTC")
+          
+          # Update last updated timestamp
+          sed -i "s/Last updated: .*/Last updated: $current_time/g" README.md || echo "<!-- Last updated: $current_time -->" >> README.md
+
+      - name: 🌡️ Add current weather info
+        run: |
+          # Get weather for a default location (you can change this)
+          weather_data=$(curl -s "http://wttr.in/Mumbai?format=3" || echo "🌍 Weather unavailable")
+          
+          # Update weather in README if the placeholder exists
+          if grep -q "<!-- WEATHER -->" README.md; then
+            sed -i "s/<!-- WEATHER -->.*$/<!-- WEATHER --> $weather_data/g" README.md
+          fi
+
+      - name: 📈 Update repository stats
+        run: |
+          # Get total repositories count
+          repo_count=$(curl -s "https://api.github.com/users/prsdx" | jq '.public_repos // 0')
+          
+          # Get total stars across all repos
+          stars_count=$(curl -s "https://api.github.com/users/prsdx/repos?per_page=100" | jq '[.[].stargazers_count] | add // 0')
+          
+          # Update stats in README
+          sed -i "s/📚 Repositories: [0-9]*/📚 Repositories: $repo_count/g" README.md
+          sed -i "s/⭐ Total Stars: [0-9]*/⭐ Total Stars: $stars_count/g" README.md
+
+      - name: 🎵 Update Spotify status
+        run: |
+          # This would require Spotify API setup, placeholder for now
+          echo "🎵 Spotify integration ready for setup"
+
+      - name: 💾 Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "🤖 Auto-update: $(date -u +"%Y-%m-%d %H:%M UTC")" -a
+            git push
+          fi
