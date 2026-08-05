@@ -21,24 +21,57 @@ IT student at ABV IIITM Gwalior.
 
 ## Stack
 
-**Languages:**
-<img src="icons/python.svg" alt="Python" height="26"> <img src="icons/typescript.svg" alt="TypeScript" height="26"> <img src="icons/javascript.svg" alt="JavaScript" height="26"> <img src="icons/cplusplus.svg" alt="C++" height="26"> <img src="icons/kotlin.svg" alt="Kotlin" height="26">
+**Languages**
+<table><tr>
+<td align="center"><img src="icons/python.svg" height="30"><br>Python</td>
+<td align="center"><img src="icons/typescript.svg" height="30"><br>TypeScript</td>
+<td align="center"><img src="icons/javascript.svg" height="30"><br>JavaScript</td>
+<td align="center"><img src="icons/cplusplus.svg" height="30"><br>C++</td>
+<td align="center"><img src="icons/kotlin.svg" height="30"><br>Kotlin</td>
+</tr></table>
 
-**AI/RAG:**
-<img src="icons/langchain.svg" alt="LangChain" height="26"> <img src="icons/googlegemini.svg" alt="Gemini" height="26"> <img src="icons/pytorch.svg" alt="PyTorch" height="26"> · sentence-transformers · pgvector · Groq
+**AI/RAG**
+<table><tr>
+<td align="center"><img src="icons/langchain.svg" height="30"><br>LangChain</td>
+<td align="center"><img src="icons/googlegemini.svg" height="30"><br>Gemini</td>
+<td align="center"><img src="icons/pytorch.svg" height="30"><br>PyTorch</td>
+</tr></table>
+also: sentence-transformers · pgvector · Groq
 
-**Backend:**
-<img src="icons/fastapi.svg" alt="FastAPI" height="26"> <img src="icons/nodedotjs.svg" alt="Node.js" height="26"> <img src="icons/express.svg#gh-light-mode-only" alt="Express" height="26"><img src="icons/express-white.svg#gh-dark-mode-only" alt="Express" height="26"> <img src="icons/socketdotio.svg#gh-light-mode-only" alt="Socket.IO" height="26"><img src="icons/socketdotio-white.svg#gh-dark-mode-only" alt="Socket.IO" height="26"> <img src="icons/sqlalchemy.svg" alt="SQLAlchemy" height="26"> <img src="icons/jsonwebtokens.svg#gh-light-mode-only" alt="JWT" height="26"><img src="icons/jsonwebtokens-white.svg#gh-dark-mode-only" alt="JWT" height="26"> · Alembic
+**Backend**
+<table><tr>
+<td align="center"><img src="icons/fastapi.svg" height="30"><br>FastAPI</td>
+<td align="center"><img src="icons/nodedotjs.svg" height="30"><br>Node.js</td>
+<td align="center"><img src="icons/express.svg#gh-light-mode-only" height="30"><img src="icons/express-white.svg#gh-dark-mode-only" height="30"><br>Express</td>
+<td align="center"><img src="icons/socketdotio.svg#gh-light-mode-only" height="30"><img src="icons/socketdotio-white.svg#gh-dark-mode-only" height="30"><br>Socket.IO</td>
+<td align="center"><img src="icons/sqlalchemy.svg" height="30"><br>SQLAlchemy</td>
+<td align="center"><img src="icons/jsonwebtokens.svg#gh-light-mode-only" height="30"><img src="icons/jsonwebtokens-white.svg#gh-dark-mode-only" height="30"><br>JWT</td>
+</tr></table>
+also: Alembic
 
-**Frontend:**
-<img src="icons/react.svg" alt="React" height="26"> <img src="icons/vite.svg" alt="Vite" height="26"> <img src="icons/tailwindcss.svg" alt="TailwindCSS" height="26"> <img src="icons/shadcnui.svg#gh-light-mode-only" alt="shadcn/ui" height="26"><img src="icons/shadcnui-white.svg#gh-dark-mode-only" alt="shadcn/ui" height="26"> <img src="icons/pwa.svg" alt="PWA" height="26">
+**Frontend**
+<table><tr>
+<td align="center"><img src="icons/react.svg" height="30"><br>React</td>
+<td align="center"><img src="icons/vite.svg" height="30"><br>Vite</td>
+<td align="center"><img src="icons/tailwindcss.svg" height="30"><br>TailwindCSS</td>
+<td align="center"><img src="icons/shadcnui.svg#gh-light-mode-only" height="30"><img src="icons/shadcnui-white.svg#gh-dark-mode-only" height="30"><br>shadcn/ui</td>
+<td align="center"><img src="icons/pwa.svg" height="30"><br>PWA</td>
+</tr></table>
 
-**Data:**
-<img src="icons/postgresql.svg" alt="PostgreSQL" height="26"> <img src="icons/mongodb.svg" alt="MongoDB" height="26"> · IndexedDB
+**Data**
+<table><tr>
+<td align="center"><img src="icons/postgresql.svg" height="30"><br>PostgreSQL</td>
+<td align="center"><img src="icons/mongodb.svg" height="30"><br>MongoDB</td>
+</tr></table>
+also: IndexedDB
 
-**Infra:**
-<img src="icons/docker.svg" alt="Docker" height="26"> <img src="icons/vercel.svg#gh-light-mode-only" alt="Vercel" height="26"><img src="icons/vercel-white.svg#gh-dark-mode-only" alt="Vercel" height="26"> <img src="icons/githubactions.svg" alt="GitHub Actions" height="26"> <img src="icons/pytest.svg" alt="pytest" height="26">
-
+**Infra**
+<table><tr>
+<td align="center"><img src="icons/docker.svg" height="30"><br>Docker</td>
+<td align="center"><img src="icons/vercel.svg#gh-light-mode-only" height="30"><img src="icons/vercel-white.svg#gh-dark-mode-only" height="30"><br>Vercel</td>
+<td align="center"><img src="icons/githubactions.svg" height="30"><br>Actions</td>
+<td align="center"><img src="icons/pytest.svg" height="30"><br>pytest</td>
+</tr></table>
 ## By the Numbers
 
 <picture>
