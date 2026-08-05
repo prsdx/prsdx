@@ -5,8 +5,8 @@ I build RAG-powered web apps and full-stack SaaS, deploy them, and solve CP prob
 CS student at ABV IIITM Gwalior.
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prsdx/github-pet/main/dist/graph-light.svg">
-  <img alt="a tiny pixel cat hopping along my contribution graph" src="https://raw.githubusercontent.com/prsdx/github-pet/main/dist/graph.svg" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prsdx/github-pet/main/dist/pet-light.svg">
+  <img alt="github pet — a pixel cat that lives, eats and plays on my profile" src="https://raw.githubusercontent.com/prsdx/github-pet/main/dist/pet.svg" width="100%">
 </picture>
 
 ## Featured Projects
@@ -35,6 +35,6 @@ CS student at ABV IIITM Gwalior.
 - **Codeforces:** [codeforces.com/profile/prsdx](https://codeforces.com/profile/prsdx)
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prsdx/github-pet/main/dist/pet-light.svg">
-  <img alt="github pet — a pixel cat that reacts to my activity" src="https://raw.githubusercontent.com/prsdx/github-pet/main/dist/pet.svg" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prsdx/github-pet/main/dist/graph-light.svg">
+  <img alt="a tiny pixel cat hopping along my contribution graph" src="https://raw.githubusercontent.com/prsdx/github-pet/main/dist/graph.svg" width="100%">
 </picture>
