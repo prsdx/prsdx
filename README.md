@@ -2,7 +2,7 @@
 
 I build RAG-powered web apps and full-stack SaaS, deploy them, and solve CP problems for sport.
 
-CS student at ABV IIITM Gwalior.
+IT student at ABV IIITM Gwalior.
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prsdx/github-pet/main/dist/pet-light.svg">
