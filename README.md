@@ -15,7 +15,7 @@ IT student at ABV IIITM Gwalior.
 | Project | What it does | Built with | Links |
 |---|---|---|---|
 | **PlateWise 2.0** | AI document-intelligence SaaS — upload PDFs/DOCX/PPTX, ask questions, get grounded answers (culinary domain) | FastAPI · React/TS · Supabase pgvector · sentence-transformers · Gemini/Groq · Docker | [Live](https://platewise-rag.vercel.app) · [Repo](https://github.com/prsdx/platewise-rag) |
-| **Parity** | B2B SaaS that detects menu inconsistencies and compliance gaps across restaurant locations and delivery platforms | FastAPI · PostgreSQL · React · Docker | [Live](https://parity-beta-two.vercel.app) · [Repo](https://github.com/prsdx/Parity) |
+| **github-pet** | Pixel pet that lives on your GitHub profile and reacts to your real activity — zero-dependency state machine rendered to animated SVGs, shipped as a reusable GitHub Action | TypeScript · Bun · GitHub Actions | [Repo](https://github.com/prsdx/github-pet) |
 | **Blood Donation** | Real-time platform connecting blood banks, donors and patients — role-based dashboards (superadmin / bank admin), live request updates | Express · MongoDB · React · Socket.IO · JWT | [Repo](https://github.com/prsdx/blooddonation) |
 | **First_Agentic_AI** | LangChain research agent — Gemini tool-calling with live web search for multi-hop research questions | Python · LangChain · Gemini API | [Repo](https://github.com/prsdx/First_Agentic_AI) |
 
