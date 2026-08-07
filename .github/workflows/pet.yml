@@ -14,11 +14,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: prsdx/github-pet@v1
+      - uses: prsdx/YourTomo@v1
         with:
           username: prsdx
           timezone-offset-minutes: "330"   # UTC+5:30 (IST)
-          watched-repos: "github-pet,platewise-rag,blooddonation"
+          watched-repos: "YourTomo,platewise-rag,blooddonation"
           display-name: "shubham"
           pet-name: "neko"
           contact-line: "prsdx.dev@gmail.com"

@@ -15,7 +15,7 @@
 - 🎓 **IT undergraduate @ ABV IIITM Gwalior** — strong on **Python**, **TypeScript**, scalable APIs & AI product thinking
 - 🧠 **RAG / Generative AI**: **PlateWise 2.0** — a document-intelligence SaaS (upload PDF/DOCX/PPTX → grounded answers) with a **live demo**
 - 🤖 **Agentic AI** with **LangChain + MCP** tool-calling for multi-hop research
-- 🐙 Author of **github-pet** — an open-source **GitHub Action** (TypeScript · Bun); the pixel cat on this very profile
+- 🐙 Author of **YourTomo** — an open-source **GitHub Action** (TypeScript · Bun); the pixel cat on this very profile
 - 🥇 **Competitive programmer** (C++) — Codeforces
 - 🎯 **Actively open** to SDE / AI internships and full-stack roles
 - 📬 prsdx.dev@gmail.com · [LinkedIn](https://www.linkedin.com/in/prsdx) · [@prsd_x](https://x.com/prsd_x)
@@ -119,7 +119,7 @@ also: **Railway** · **httpx**
 | Project | What it does | Built with | Links |
 |---|---|---|---|
 | **PlateWise 2.0** | **RAG**-powered **Generative AI** document-intelligence SaaS — upload PDFs/DOCX/PPTX and ask questions for grounded answers (culinary domain) | FastAPI · React/TS · Supabase **pgvector** · sentence-transformers · Gemini/Groq · Docker | [Live](https://platewise-rag.vercel.app) · [Repo](https://github.com/prsdx/platewise-rag) |
-| **github-pet** | Open-source **GitHub Action** — a pixel cat on your profile that reacts to real activity (TypeScript · Bun) | TypeScript · Bun · GitHub Actions | [Repo](https://github.com/prsdx/github-pet) |
+| **YourTomo** | Open-source **GitHub Action** — a pixel cat on your profile that reacts to real activity (TypeScript · Bun) | TypeScript · Bun · GitHub Actions | [Repo](https://github.com/prsdx/YourTomo) |
 | **Blood Donation** | Real-time MERN platform connecting blood banks, donors & patients — role-based dashboards, **Socket.IO** live updates | Express · MongoDB · React · Socket.IO · JWT | [Repo](https://github.com/prsdx/blooddonation) |
 | **First_Agentic_AI** | **Agentic AI** research agent — **LangChain** + **Gemini** tool-calling with live web search for multi-hop questions | Python · LangChain · Gemini API | [Repo](https://github.com/prsdx/First_Agentic_AI) |
 
@@ -161,4 +161,4 @@ also: **Railway** · **httpx**
   <img alt="my real contribution year as an isometric city with a kitty hopping along the weekly peaks - regenerated every 6h" src="https://raw.githubusercontent.com/prsdx/prsdx/main/dist/isocat.svg" width="100%">
 </picture>
 
-*the cat above is **neko** — both visuals are powered by [github-pet](https://github.com/prsdx/github-pet), a zero-dependency state machine I built that renders my real activity to animated SVG every 6h. if neko is grumpy, that is on me.*
+*the cat above is **neko** — both visuals are powered by [YourTomo](https://github.com/prsdx/YourTomo), a zero-dependency state machine I built that renders my real activity to animated SVG every 6h. if neko is grumpy, that is on me.*
