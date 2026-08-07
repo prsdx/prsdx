@@ -32,13 +32,13 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" height="40"><br><b>Python</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=ts" height="40"><br><b>TypeScript</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js" height="40"><br><b>JavaScript</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=cpp" height="40"><br><b>C++</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=kotlin" height="40"><br><b>Kotlin</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" height="40"><br><b>HTML</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" height="40"><br><b>CSS</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=python" height="40"><br><b>Python</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts" height="40"><br><b>TypeScript</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=js" height="40"><br><b>JavaScript</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" height="40"><br><b>C++</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin" height="40"><br><b>Kotlin</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=html" height="40"><br><b>HTML</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=css" height="40"><br><b>CSS</b></td>
 </tr>
 </table>
 
@@ -46,13 +46,13 @@
 
 <table>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=langchain" height="40"><br><b>LangChain</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=ai" height="40"><br><b>Gemini</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=pytorch" height="40"><br><b>PyTorch</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=huggingface" height="40"><br><b>Hugging Face</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=sklearn" height="40"><br><b>scikit-learn</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=pandas" height="40"><br><b>pandas</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=numpy" height="40"><br><b>NumPy</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" height="40"><br><b>LangChain</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" height="40"><br><b>Gemini</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch" height="40"><br><b>PyTorch</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" height="40"><br><b>Hugging Face</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" height="40"><br><b>scikit-learn</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="40"><br><b>pandas</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" height="40"><br><b>NumPy</b></td>
 </tr>
 </table>
 
@@ -62,11 +62,11 @@ also: **Groq** · **RAG (pgvector)** · sentence-transformers
 
 <table>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" height="40"><br><b>FastAPI</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="40"><br><b>Node.js</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=express" height="40"><br><b>Express</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=socketio" height="40"><br><b>Socket.IO</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=sqlalchemy" height="40"><br><b>SQLAlchemy</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" height="40"><br><b>FastAPI</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" height="40"><br><b>Node.js</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=express" height="40"><br><b>Express</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=socketio" height="40"><br><b>Socket.IO</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy" height="40"><br><b>SQLAlchemy</b></td>
 </tr>
 </table>
 
@@ -76,11 +76,11 @@ also: **Uvicorn** · **JWT** · **bcrypt**
 
 <table>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" height="40"><br><b>React</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vite" height="40"><br><b>Vite</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="40"><br><b>TailwindCSS</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=shadcnui" height="40"><br><b>shadcn/ui</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=pwa" height="40"><br><b>PWA</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=react" height="40"><br><b>React</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=vite" height="40"><br><b>Vite</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" height="40"><br><b>TailwindCSS</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" height="40"><br><b>shadcn/ui</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=pwa" height="40"><br><b>PWA</b></td>
 </tr>
 </table>
 
@@ -90,9 +90,9 @@ also: **React Router** · **Axios**
 
 <table>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres" height="40"><br><b>PostgreSQL</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="40"><br><b>MongoDB</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=supabase" height="40"><br><b>Supabase</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" height="40"><br><b>PostgreSQL</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" height="40"><br><b>MongoDB</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=supabase" height="40"><br><b>Supabase</b></td>
 </tr>
 </table>
 
@@ -102,12 +102,13 @@ also: **pgvector** · **IndexedDB**
 
 <table>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=docker" height="40"><br><b>Docker</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vercel" height="40"><br><b>Vercel</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=githubactions" height="40"><br><b>GitHub Actions</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" height="40"><br><b>Git</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=bun" height="40"><br><b>Bun</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=pytest" height="40"><br><b>pytest</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" height="40"><br><b>Docker</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=linux" height="40"><br><b>Linux</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" height="40"><br><b>Vercel</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" height="40"><br><b>GitHub Actions</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" height="40"><br><b>Git</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=bun" height="40"><br><b>Bun</b></td>
+<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=pytest" height="40"><br><b>pytest</b></td>
 </tr>
 </table>
 
