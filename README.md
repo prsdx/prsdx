@@ -5,9 +5,9 @@ I build RAG-powered web apps and full-stack SaaS, deploy them, and solve CP prob
 IT student at ABV IIITM Gwalior.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prsdx/github-pet/main/dist/pet.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prsdx/github-pet/main/dist/pet-light.svg">
-  <img alt="github-pet - a pixel cat that reacts to my real GitHub activity" src="https://raw.githubusercontent.com/prsdx/github-pet/main/dist/pet.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prsdx/prsdx/main/dist/pet.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prsdx/prsdx/main/dist/pet-light.svg">
+  <img alt="neko - a pixel cat that reacts to my real GitHub activity" src="https://raw.githubusercontent.com/prsdx/prsdx/main/dist/pet.svg" width="100%">
 </picture>
 
 ## Featured Projects
@@ -76,24 +76,24 @@ also: IndexedDB
 ## By the Numbers
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prsdx/github-pet/main/dist/langs.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prsdx/github-pet/main/dist/langs-light.svg">
-  <img alt="languages across my public repos - generated from the GitHub API by my own Action" src="https://raw.githubusercontent.com/prsdx/github-pet/main/dist/langs.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prsdx/prsdx/main/dist/langs.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prsdx/prsdx/main/dist/langs-light.svg">
+  <img alt="languages across my public repos - generated from the GitHub API by my own Action" src="https://raw.githubusercontent.com/prsdx/prsdx/main/dist/langs.svg">
 </picture>
 
 <table><tr>
 <td width="50%">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prsdx/github-pet/main/profile-summary-card-output/github_dark/3-stats.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prsdx/github-pet/main/profile-summary-card-output/default/3-stats.svg">
-  <img alt="github stats - stars, commits, PRs, issues" src="https://raw.githubusercontent.com/prsdx/github-pet/main/profile-summary-card-output/github_dark/3-stats.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prsdx/prsdx/main/profile-summary-card-output/github_dark/3-stats.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prsdx/prsdx/main/profile-summary-card-output/default/3-stats.svg">
+  <img alt="github stats - stars, commits, PRs, issues" src="https://raw.githubusercontent.com/prsdx/prsdx/main/profile-summary-card-output/github_dark/3-stats.svg" width="100%">
 </picture>
 </td>
 <td width="50%">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prsdx/github-pet/main/profile-summary-card-output/github_dark/4-productive-time.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prsdx/github-pet/main/profile-summary-card-output/default/4-productive-time.svg">
-  <img alt="productive time - commits by hour of day (IST)" src="https://raw.githubusercontent.com/prsdx/github-pet/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prsdx/prsdx/main/profile-summary-card-output/github_dark/4-productive-time.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prsdx/prsdx/main/profile-summary-card-output/default/4-productive-time.svg">
+  <img alt="productive time - commits by hour of day (IST)" src="https://raw.githubusercontent.com/prsdx/prsdx/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="100%">
 </picture>
 </td>
 </tr></table>
@@ -106,9 +106,9 @@ also: IndexedDB
 - **Codeforces:** [codeforces.com/profile/prsdx](https://codeforces.com/profile/prsdx)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prsdx/github-pet/main/dist/isocat.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prsdx/github-pet/main/dist/isocat-light.svg">
-  <img alt="my real contribution year as an isometric city with a kitty hopping along the weekly peaks - regenerated every 6h" src="https://raw.githubusercontent.com/prsdx/github-pet/main/dist/isocat.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prsdx/prsdx/main/dist/isocat.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prsdx/prsdx/main/dist/isocat-light.svg">
+  <img alt="my real contribution year as an isometric city with a kitty hopping along the weekly peaks - regenerated every 6h" src="https://raw.githubusercontent.com/prsdx/prsdx/main/dist/isocat.svg" width="100%">
 </picture>
 
-*both visuals are [github-pet](https://github.com/prsdx/github-pet) — a zero-dependency state machine I built that renders my real activity to animated SVG every 6h. if the cat is grumpy, that is on me.*
+*the cat above is **neko** — both visuals are powered by [github-pet](https://github.com/prsdx/github-pet), a zero-dependency state machine I built that renders my real activity to animated SVG every 6h. if neko is grumpy, that is on me.*
