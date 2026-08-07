@@ -1,13 +1,77 @@
-# Shubham Prasad (@prsdx)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Shubham%20Prasad&fontSize=40&fontAlign=50&fontAlignY=38&desc=IT%20student%20%C2%B7%20RAG%20web%20apps%20%C2%B7%20full-stack%20SaaS%20%C2%B7%20CP&descAlignY=60&color=0:7C3AED,50:2563EB,100:06B6D4" width="100%" alt="Shubham Prasad - IT student, RAG web apps, full-stack SaaS, competitive programming">
+</p>
 
-I build RAG-powered web apps and full-stack SaaS, deploy them, and solve CP problems for sport.
+## About me
 
-IT student at ABV IIITM Gwalior.
+Hey! I'm **Shubham** — an IT student at ABV IIITM Gwalior who likes shipping real things.
+
+- 🔭 Building **PlateWise 2.0**, an AI document-intelligence SaaS (FastAPI · React · Supabase pgvector)
+- 🐱 Author of **github-pet** — the zero-dependency pixel cat living on my profile (that's **neko**)
+- 🧠 Into **RAG / LLM apps**, full-stack SaaS, and solving **competitive programming** problems for sport
+- 💻 Daily drivers: TypeScript · Python · FastAPI · React
+- 📬 prsdx.dev@gmail.com
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prsdx/prsdx/main/dist/pet.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prsdx/prsdx/main/dist/pet-light.svg">
   <img alt="neko - a pixel cat that reacts to my real GitHub activity" src="https://raw.githubusercontent.com/prsdx/prsdx/main/dist/pet.svg" width="100%">
+</picture>
+
+## Stack
+
+**Languages**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,cpp,kotlin,bun&perline=15&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,ts,js,cpp,kotlin,bun&perline=15&theme=light">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,kotlin,bun&perline=15&theme=light" alt="Python, TypeScript, JavaScript, C++, Kotlin, Bun">
+</picture>
+
+**AI/RAG**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=langchain,ai,pytorch&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=langchain,ai,pytorch&theme=light">
+  <img src="https://skillicons.dev/icons?i=langchain,ai,pytorch&theme=light" alt="LangChain, Gemini, PyTorch">
+</picture>
+
+also: sentence-transformers · pgvector · Groq
+
+**Backend**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,nodejs,express,socketio,sqlalchemy&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi,nodejs,express,socketio,sqlalchemy&theme=light">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,socketio,sqlalchemy&theme=light" alt="FastAPI, Node.js, Express, Socket.IO, SQLAlchemy">
+</picture>
+
+also: Alembic
+
+**Frontend**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs,shadcnui,pwa&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs,shadcnui,pwa&theme=light">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs,shadcnui,pwa&theme=light" alt="React, Vite, TailwindCSS, Next.js, shadcn/ui, PWA">
+</picture>
+
+**Data**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,supabase&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,supabase&theme=light">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase&theme=light" alt="PostgreSQL, MongoDB, Supabase">
+</picture>
+
+also: IndexedDB
+
+**Infra**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,vercel,githubactions,git&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,vercel,githubactions,git&theme=light">
+  <img src="https://skillicons.dev/icons?i=docker,vercel,githubactions,git&theme=light" alt="Docker, Vercel, GitHub Actions, Git">
 </picture>
 
 ## Featured Projects
@@ -18,60 +82,6 @@ IT student at ABV IIITM Gwalior.
 | **github-pet** | Pixel pet that lives on your GitHub profile and reacts to your real activity — zero-dependency state machine rendered to animated SVGs, shipped as a reusable GitHub Action | TypeScript · Bun · GitHub Actions | [Repo](https://github.com/prsdx/github-pet) |
 | **Blood Donation** | Real-time platform connecting blood banks, donors and patients — role-based dashboards (superadmin / bank admin), live request updates | Express · MongoDB · React · Socket.IO · JWT | [Repo](https://github.com/prsdx/blooddonation) |
 | **First_Agentic_AI** | LangChain research agent — Gemini tool-calling with live web search for multi-hop research questions | Python · LangChain · Gemini API | [Repo](https://github.com/prsdx/First_Agentic_AI) |
-
-## Stack
-
-**Languages**
-<table><tr>
-<td align="center"><img src="icons/python.svg" height="30"><br>Python</td>
-<td align="center"><img src="icons/typescript.svg" height="30"><br>TypeScript</td>
-<td align="center"><img src="icons/javascript.svg" height="30"><br>JavaScript</td>
-<td align="center"><img src="icons/cplusplus.svg" height="30"><br>C++</td>
-<td align="center"><img src="icons/kotlin.svg" height="30"><br>Kotlin</td>
-</tr></table>
-
-**AI/RAG**
-<table><tr>
-<td align="center"><img src="icons/langchain.svg" height="30"><br>LangChain</td>
-<td align="center"><img src="icons/googlegemini.svg" height="30"><br>Gemini</td>
-<td align="center"><img src="icons/pytorch.svg" height="30"><br>PyTorch</td>
-</tr></table>
-also: sentence-transformers · pgvector · Groq
-
-**Backend**
-<table><tr>
-<td align="center"><img src="icons/fastapi.svg" height="30"><br>FastAPI</td>
-<td align="center"><img src="icons/nodedotjs.svg" height="30"><br>Node.js</td>
-<td align="center"><img src="icons/express.svg" height="30"><br>Express</td>
-<td align="center"><img src="icons/socketdotio.svg#gh-light-mode-only" height="30"><img src="icons/socketdotio-white.svg#gh-dark-mode-only" height="30"><br>Socket.IO</td>
-<td align="center"><img src="icons/sqlalchemy.svg" height="30"><br>SQLAlchemy</td>
-<td align="center"><img src="icons/jsonwebtokens.svg#gh-light-mode-only" height="30"><img src="icons/jsonwebtokens-white.svg#gh-dark-mode-only" height="30"><br>JWT</td>
-</tr></table>
-also: Alembic
-
-**Frontend**
-<table><tr>
-<td align="center"><img src="icons/react.svg" height="30"><br>React</td>
-<td align="center"><img src="icons/vite.svg" height="30"><br>Vite</td>
-<td align="center"><img src="icons/tailwindcss.svg" height="30"><br>TailwindCSS</td>
-<td align="center"><img src="icons/shadcnui.svg#gh-light-mode-only" height="30"><img src="icons/shadcnui-white.svg#gh-dark-mode-only" height="30"><br>shadcn/ui</td>
-<td align="center"><img src="icons/pwa.svg" height="30"><br>PWA</td>
-</tr></table>
-
-**Data**
-<table><tr>
-<td align="center"><img src="icons/postgresql.svg" height="30"><br>PostgreSQL</td>
-<td align="center"><img src="icons/mongodb.svg" height="30"><br>MongoDB</td>
-</tr></table>
-also: IndexedDB
-
-**Infra**
-<table><tr>
-<td align="center"><img src="icons/docker.svg" height="30"><br>Docker</td>
-<td align="center"><img src="icons/vercel.svg" height="30"><br>Vercel</td>
-<td align="center"><img src="icons/githubactions.svg" height="30"><br>Actions</td>
-<td align="center"><img src="icons/pytest.svg" height="30"><br>pytest</td>
-</tr></table>
 
 ## By the Numbers
 
