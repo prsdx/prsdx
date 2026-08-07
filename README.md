@@ -1,15 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Shubham%20Prasad&fontSize=40&fontAlign=50&fontAlignY=38&desc=IT%20student%20%C2%B7%20RAG%20web%20apps%20%C2%B7%20full-stack%20SaaS%20%C2%B7%20CP&descAlignY=60&color=0:7C3AED,50:2563EB,100:06B6D4" width="100%" alt="Shubham Prasad - IT student, RAG web apps, full-stack SaaS, competitive programming">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Shubham%20Prasad&fontSize=40&fontAlign=50&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Engineer%20%C2%B7%20LLM%20%C2%B7%20RAG%20%C2%B7%20TypeScript&descAlignY=60&color=0:7C3AED,50:2563EB,100:06B6D4" width="100%" alt="Shubham Prasad - AI & Full-Stack Engineer, LLM, RAG, TypeScript">
 </p>
 
 ## About me
 
-Hey! I'm **Shubham** — an IT student at ABV IIITM Gwalior who ships real things.
+> **AI & Full-Stack Engineer** — building production **LLM apps**, **RAG** systems, and full-stack SaaS.
 
-- 🔭 Building **PlateWise 2.0** — an AI document-intelligence SaaS (FastAPI · React · Supabase pgvector · Gemini/Groq)
-- 🐱 Author of **github-pet** — the zero-dependency pixel cat living on my profile (that's **neko**)
-- 🧠 Into **RAG / LLM apps**, full-stack SaaS, and solving **competitive programming** problems for sport
-- 💻 Daily drivers: TypeScript · Python · FastAPI · React
+- 🧠 **RAG (Retrieval-Augmented Generation)** apps: **PlateWise 2.0**, a **Generative AI** document-intelligence SaaS (FastAPI · React · Supabase **pgvector** · **Gemini/Groq**)
+- 🤖 **Agentic AI** with **LangChain** & **MCP** workflows for multi-hop research
+- 🐱 Author of **github-pet** — an open-source **GitHub Action** (TypeScript · Bun) that renders a pixel cat from real activity
+- ⚙️ Stack: **TypeScript · Python · React · FastAPI · Node.js · PostgreSQL**
+- 🎯 Open to **AI Engineering** / full-stack roles & collaborations
 - 📬 prsdx.dev@gmail.com
 
 <picture>
@@ -23,82 +24,84 @@ Hey! I'm **Shubham** — an IT student at ABV IIITM Gwalior who ships real thing
 **Languages**
 
 <table><tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" height="30"><br><b>Python</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=ts" height="30"><br><b>TypeScript</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js" height="30"><br><b>JavaScript</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=cpp" height="30"><br><b>C++</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=kotlin" height="30"><br><b>Kotlin</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" height="30"><br><b>HTML</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" height="30"><br><b>CSS</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" height="24"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts" height="24"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" height="24"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" height="24"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=kotlin" height="24"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" height="24"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" height="24"></td>
 </tr></table>
 
-**AI / Machine Learning**
+**AI / RAG / ML**
 
 <table><tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=langchain" height="30"><br><b>LangChain</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=ai" height="30"><br><b>Gemini</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=pytorch" height="30"><br><b>PyTorch</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=huggingface" height="30"><br><b>Hugging Face</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=sklearn" height="30"><br><b>scikit-learn</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=pandas" height="30"><br><b>pandas</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=numpy" height="30"><br><b>NumPy</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=langchain" height="24"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ai" height="24"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pytorch" height="24"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=huggingface" height="24"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sklearn" height="24"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pandas" height="24"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=numpy" height="24"></td>
 </tr></table>
 
-also: **Groq** · **Retrieval-Augmented Gen (RAG)** · **pgvector**
+also: **Groq** · **RAG (pgvector)** · sentence-transformers
 
 **Backend**
 
 <table><tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" height="30"><br><b>FastAPI</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="30"><br><b>Node.js</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=express" height="30"><br><b>Express</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=socketio" height="30"><br><b>Socket.IO</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=sqlalchemy" height="30"><br><b>SQLAlchemy</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" height="24"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="24"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" height="24"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=socketio" height="24"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sqlalchemy" height="24"></td>
 </tr></table>
 
-also: **Uvicorn** · **JWT** · **REST API**
+also: **Uvicorn** · **JWT** · **bcrypt**
 
 **Frontend**
 
 <table><tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" height="30"><br><b>React</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vite" height="30"><br><b>Vite</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="30"><br><b>TailwindCSS</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=shadcnui" height="30"><br><b>shadcn/ui</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=pwa" height="30"><br><b>PWA</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" height="24"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vite" height="24"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="24"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=shadcnui" height="24"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pwa" height="24"></td>
 </tr></table>
 
 also: **React Router** · **Axios**
 
-**Databases & Data**
+**Data**
 
 <table><tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=postgres" height="30"><br><b>PostgreSQL</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="30"><br><b>MongoDB</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=supabase" height="30"><br><b>Supabase</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" height="24"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="24"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=supabase" height="24"></td>
 </tr></table>
 
-**DevOps & Tools**
+also: **pgvector** · **IndexedDB**
+
+**Tools / Infra**
 
 <table><tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=docker" height="30"><br><b>Docker</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=githubactions" height="30"><br><b>GitHub Actions</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vercel" height="30"><br><b>Vercel</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=bun" height="30"><br><b>Bun</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" height="30"><br><b>Git</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=pytest" height="30"><br><b>pytest</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" height="24"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vercel" height="24"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=githubactions" height="24"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" height="24"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bun" height="24"></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pytest" height="24"></td>
 </tr></table>
 
-also: **Railway**
+also: **Railway** · **httpx**
 
 ## Featured Projects
 
 | Project | What it does | Built with | Links |
 |---|---|---|---|
-| **PlateWise 2.0** | AI document-intelligence SaaS — upload PDFs/DOCX/PPTX, ask questions, get grounded answers (culinary domain) | FastAPI · React/TS · Supabase pgvector · sentence-transformers · Gemini/Groq · Docker | [Live](https://platewise-rag.vercel.app) · [Repo](https://github.com/prsdx/platewise-rag) |
-| **github-pet** | Pixel pet that lives on your GitHub profile and reacts to your real activity — zero-dependency state machine rendered to animated SVGs, shipped as a reusable GitHub Action | TypeScript · Bun · GitHub Actions | [Repo](https://github.com/prsdx/github-pet) |
-| **Blood Donation** | Real-time platform connecting blood banks, donors and patients — role-based dashboards (superadmin / bank admin), live request updates | Express · MongoDB · React · Socket.IO · JWT | [Repo](https://github.com/prsdx/blooddonation) |
-| **First_Agentic_AI** | LangChain research agent — Gemini tool-calling with live web search for multi-hop research questions | Python · LangChain · Gemini API | [Repo](https://github.com/prsdx/First_Agentic_AI) |
+| **PlateWise 2.0** | **RAG**-powered **Generative AI** document-intelligence SaaS — upload PDFs/DOCX/PPTX and ask questions for grounded answers (culinary domain) | FastAPI · React/TS · Supabase **pgvector** · sentence-transformers · Gemini/Groq · Docker | [Live](https://platewise-rag.vercel.app) · [Repo](https://github.com/prsdx/platewise-rag) |
+| **github-pet** | Open-source **GitHub Action** — a pixel cat on your profile that reacts to real activity (TypeScript · Bun) | TypeScript · Bun · GitHub Actions | [Repo](https://github.com/prsdx/github-pet) |
+| **Blood Donation** | Real-time MERN platform connecting blood banks, donors & patients — role-based dashboards, **Socket.IO** live updates | Express · MongoDB · React · Socket.IO · JWT | [Repo](https://github.com/prsdx/blooddonation) |
+| **First_Agentic_AI** | **Agentic AI** research agent — **LangChain** + **Gemini** tool-calling with live web search for multi-hop questions | Python · LangChain · Gemini API | [Repo](https://github.com/prsdx/First_Agentic_AI) |
 
 ## By the Numbers
 
