@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Shubham Prasad - AI &amp; Full-Stack Engineer">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6d28d9"/>
+      <stop offset="0.5" stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.4" fill="#ffffff" fill-opacity="0.16"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="240" fill="url(#grad)"/>
+  <rect width="1200" height="240" fill="url(#dots)"/>
+  <rect x="0" y="0" width="1200" height="6" fill="#ffffff" opacity="0.28"/>
+  <text x="600" y="104" text-anchor="middle" font-family="Segoe UI, Ubuntu, -apple-system, Arial, sans-serif" font-size="62" font-weight="800" fill="#ffffff" letter-spacing="1">Shubham Prasad</text>
+  <text x="600" y="146" text-anchor="middle" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="24" fill="#e0e7ff">AI &amp; Full-Stack Engineer</text>
+  <g font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff">
+    <rect x="414" y="176" width="62" height="34" rx="17" fill="#ffffff" fill-opacity="0.14" stroke="#ffffff" stroke-opacity="0.5"/>
+    <rect x="490" y="176" width="56" height="34" rx="17" fill="#ffffff" fill-opacity="0.14" stroke="#ffffff" stroke-opacity="0.5"/>
+    <rect x="560" y="176" width="112" height="34" rx="17" fill="#ffffff" fill-opacity="0.14" stroke="#ffffff" stroke-opacity="0.5"/>
+    <rect x="686" y="176" width="102" height="34" rx="17" fill="#ffffff" fill-opacity="0.14" stroke="#ffffff" stroke-opacity="0.5"/>
+    <text x="445" y="198" text-anchor="middle">RAG</text>
+    <text x="518" y="198" text-anchor="middle">LLM</text>
+    <text x="616" y="198" text-anchor="middle">GenAI</text>
+    <text x="737" y="198" text-anchor="middle">Full-Stack</text>
+  </g>
+</svg>

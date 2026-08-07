@@ -1,17 +1,24 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Shubham%20Prasad&fontSize=40&fontAlign=50&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Engineer%20%C2%B7%20LLM%20%C2%B7%20RAG%20%C2%B7%20TypeScript&descAlignY=60&color=0:7C3AED,50:2563EB,100:06B6D4" width="100%" alt="Shubham Prasad - AI & Full-Stack Engineer, LLM, RAG, TypeScript">
+  <img src="https://raw.githubusercontent.com/prsdx/prsdx/main/banner.svg" width="100%" alt="Shubham Prasad - AI & Full-Stack Engineer, LLM, RAG, Full-Stack">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prsdx"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:prsdx.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://x.com/prsd_x"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
 </p>
 
 ## About me
 
-> **AI & Full-Stack Engineer** — building production **LLM apps**, **RAG** systems, and full-stack SaaS.
+> **AI & Full-Stack Engineer** — building production **LLM / RAG** apps and full-stack SaaS, and shipping them.
 
-- 🧠 **RAG (Retrieval-Augmented Generation)** apps: **PlateWise 2.0**, a **Generative AI** document-intelligence SaaS (FastAPI · React · Supabase **pgvector** · **Gemini/Groq**)
-- 🤖 **Agentic AI** with **LangChain** & **MCP** workflows for multi-hop research
-- 🐱 Author of **github-pet** — an open-source **GitHub Action** (TypeScript · Bun) that renders a pixel cat from real activity
-- ⚙️ Stack: **TypeScript · Python · React · FastAPI · Node.js · PostgreSQL**
-- 🎯 Open to **AI Engineering** / full-stack roles & collaborations
-- 📬 prsdx.dev@gmail.com
+- 🎓 **IT undergraduate @ ABV IIITM Gwalior** — strong on **Python**, **TypeScript**, scalable APIs & AI product thinking
+- 🧠 **RAG / Generative AI**: **PlateWise 2.0** — a document-intelligence SaaS (upload PDF/DOCX/PPTX → grounded answers) with a **live demo**
+- 🤖 **Agentic AI** with **LangChain + MCP** tool-calling for multi-hop research
+- 🐙 Author of **github-pet** — an open-source **GitHub Action** (TypeScript · Bun); the pixel cat on this very profile
+- 🥇 **Competitive programmer** (C++) — Codeforces
+- 🎯 **Actively open** to SDE / AI internships and full-stack roles
+- 📬 prsdx.dev@gmail.com · [LinkedIn](https://www.linkedin.com/in/prsdx) · [@prsd_x](https://x.com/prsd_x)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prsdx/prsdx/main/dist/pet.svg">
@@ -105,6 +112,7 @@ also: **pgvector** · **IndexedDB**
 </table>
 
 also: **Railway** · **httpx**
+
 ## Featured Projects
 
 | Project | What it does | Built with | Links |
