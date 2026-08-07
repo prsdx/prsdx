@@ -4,9 +4,9 @@
 
 ## About me
 
-Hey! I'm **Shubham** — an IT student at ABV IIITM Gwalior who likes shipping real things.
+Hey! I'm **Shubham** — an IT student at ABV IIITM Gwalior who ships real things.
 
-- 🔭 Building **PlateWise 2.0**, an AI document-intelligence SaaS (FastAPI · React · Supabase pgvector)
+- 🔭 Building **PlateWise 2.0** — an AI document-intelligence SaaS (FastAPI · React · Supabase pgvector · Gemini/Groq)
 - 🐱 Author of **github-pet** — the zero-dependency pixel cat living on my profile (that's **neko**)
 - 🧠 Into **RAG / LLM apps**, full-stack SaaS, and solving **competitive programming** problems for sport
 - 💻 Daily drivers: TypeScript · Python · FastAPI · React
@@ -22,57 +22,74 @@ Hey! I'm **Shubham** — an IT student at ABV IIITM Gwalior who likes shipping r
 
 **Languages**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,ts,js,cpp,kotlin,bun&perline=15&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,ts,js,cpp,kotlin,bun&perline=15&theme=light">
-  <img src="https://skillicons.dev/icons?i=py,ts,js,cpp,kotlin,bun&perline=15&theme=light" alt="Python, TypeScript, JavaScript, C++, Kotlin, Bun">
-</picture>
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" height="30"><br><b>Python</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ts" height="30"><br><b>TypeScript</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" height="30"><br><b>JavaScript</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cpp" height="30"><br><b>C++</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=kotlin" height="30"><br><b>Kotlin</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" height="30"><br><b>HTML</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" height="30"><br><b>CSS</b></td>
+</tr></table>
 
-**AI/RAG**
+**AI / Machine Learning**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=langchain,ai,pytorch&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=langchain,ai,pytorch&theme=light">
-  <img src="https://skillicons.dev/icons?i=langchain,ai,pytorch&theme=light" alt="LangChain, Gemini, PyTorch">
-</picture>
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=langchain" height="30"><br><b>LangChain</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=ai" height="30"><br><b>Gemini</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pytorch" height="30"><br><b>PyTorch</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=huggingface" height="30"><br><b>Hugging Face</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sklearn" height="30"><br><b>scikit-learn</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pandas" height="30"><br><b>pandas</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=numpy" height="30"><br><b>NumPy</b></td>
+</tr></table>
 
-also: sentence-transformers · pgvector · Groq
+also: **Groq** · **Retrieval-Augmented Gen (RAG)** · **pgvector**
 
 **Backend**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,nodejs,express,socketio,sqlalchemy&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi,nodejs,express,socketio,sqlalchemy&theme=light">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,socketio,sqlalchemy&theme=light" alt="FastAPI, Node.js, Express, Socket.IO, SQLAlchemy">
-</picture>
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=fastapi" height="30"><br><b>FastAPI</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" height="30"><br><b>Node.js</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=express" height="30"><br><b>Express</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=socketio" height="30"><br><b>Socket.IO</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sqlalchemy" height="30"><br><b>SQLAlchemy</b></td>
+</tr></table>
 
-also: Alembic
+also: **Uvicorn** · **JWT** · **REST API**
 
 **Frontend**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs,shadcnui,pwa&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs,shadcnui,pwa&theme=light">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nextjs,shadcnui,pwa&theme=light" alt="React, Vite, TailwindCSS, Next.js, shadcn/ui, PWA">
-</picture>
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" height="30"><br><b>React</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vite" height="30"><br><b>Vite</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" height="30"><br><b>TailwindCSS</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=shadcnui" height="30"><br><b>shadcn/ui</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pwa" height="30"><br><b>PWA</b></td>
+</tr></table>
 
-**Data**
+also: **React Router** · **Axios**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,supabase&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mongodb,supabase&theme=light">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase&theme=light" alt="PostgreSQL, MongoDB, Supabase">
-</picture>
+**Databases & Data**
 
-also: IndexedDB
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" height="30"><br><b>PostgreSQL</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" height="30"><br><b>MongoDB</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=supabase" height="30"><br><b>Supabase</b></td>
+</tr></table>
 
-**Infra**
+**DevOps & Tools**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,vercel,githubactions,git&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,vercel,githubactions,git&theme=light">
-  <img src="https://skillicons.dev/icons?i=docker,vercel,githubactions,git&theme=light" alt="Docker, Vercel, GitHub Actions, Git">
-</picture>
+<table><tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=docker" height="30"><br><b>Docker</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=githubactions" height="30"><br><b>GitHub Actions</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vercel" height="30"><br><b>Vercel</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=bun" height="30"><br><b>Bun</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" height="30"><br><b>Git</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=pytest" height="30"><br><b>pytest</b></td>
+</tr></table>
+
+also: **Railway**
 
 ## Featured Projects
 
