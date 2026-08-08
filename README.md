@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/prsdx"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:prsdx.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://x.com/prsd_x"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://github.com/prsdx"><img src="https://komarev.com/ghpvc/?username=prsdx&style=for-the-badge&color=6A5AF9" alt="Profile views"></a>
 </p>
 
 ## About me
