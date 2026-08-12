@@ -33,91 +33,73 @@
 
 <img src="https://img.shields.io/badge/-Stack-6d28d9?style=flat-square&logoColor=white" height="30"/>
 
+<div align="center">
+
 **Languages**
 
-<table>
-<tr>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=python" height="40"><br><b>Python</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=ts" height="40"><br><b>TypeScript</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=js" height="40"><br><b>JavaScript</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" height="40"><br><b>C++</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=kotlin" height="40"><br><b>Kotlin</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=html" height="40"><br><b>HTML</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=css" height="40"><br><b>CSS</b></td>
-</tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **AI / RAG / ML**
 
-<table>
-<tr>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" height="40"><br><b>LangChain</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" height="40"><br><b>Gemini</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch" height="40"><br><b>PyTorch</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" height="40"><br><b>Hugging Face</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" height="40"><br><b>scikit-learn</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="40"><br><b>pandas</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=numpy" height="40"><br><b>NumPy</b></td>
-</tr>
-</table>
-
-also: **Groq** · **RAG (pgvector)** · sentence-transformers
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googleGemini&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFAE33?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![RAG (pgvector)](https://img.shields.io/badge/RAG_(pgvector)-A855F7?style=flat-square&logoColor=white)
+![sentence-transformers](https://img.shields.io/badge/sentence--transformers-6366F1?style=flat-square&logoColor=white)
 
 **Backend**
 
-<table>
-<tr>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi" height="40"><br><b>FastAPI</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" height="40"><br><b>Node.js</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=express" height="40"><br><b>Express</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=socketio" height="40"><br><b>Socket.IO</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy" height="40"><br><b>SQLAlchemy</b></td>
-</tr>
-</table>
-
-also: **Uvicorn** · **JWT** · **bcrypt**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=flat-square&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-2563EB?style=flat-square&logoColor=white)
 
 **Frontend**
 
-<table>
-<tr>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=react" height="40"><br><b>React</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=vite" height="40"><br><b>Vite</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind" height="40"><br><b>TailwindCSS</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" height="40"><br><b>shadcn/ui</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=pwa" height="40"><br><b>PWA</b></td>
-</tr>
-</table>
-
-also: **React Router** · **Axios**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 
 **Data**
 
-<table>
-<tr>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" height="40"><br><b>PostgreSQL</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" height="40"><br><b>MongoDB</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=supabase" height="40"><br><b>Supabase</b></td>
-</tr>
-</table>
-
-also: **pgvector** · **IndexedDB**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-316192?style=flat-square&logoColor=white)
+![IndexedDB](https://img.shields.io/badge/IndexedDB-1A73E8?style=flat-square&logoColor=white)
 
 **Tools / Infra**
 
-<table>
-<tr>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" height="40"><br><b>Docker</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=linux" height="40"><br><b>Linux</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" height="40"><br><b>Vercel</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions" height="40"><br><b>GitHub Actions</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" height="40"><br><b>Git</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=bun" height="40"><br><b>Bun</b></td>
-<td align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=pytest" height="40"><br><b>pytest</b></td>
-</tr>
-</table>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-FBF0DF?style=flat-square&logo=bun&logoColor=black)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![httpx](https://img.shields.io/badge/httpx-FC7018?style=flat-square&logoColor=white)
 
-also: **Railway** · **httpx**
+</div>
 
 <img src="https://img.shields.io/badge/-Featured_Projects-6d28d9?style=flat-square&logoColor=white" height="30"/>
 
