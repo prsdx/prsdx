@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/prsdx/prsdx/main/banner.svg" width="100%" alt="Shubham Prasad - AI & Full-Stack Engineer, LLM, RAG, Full-Stack">
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=6D28D9&center=true&vCenter=true&repeat=true&width=820&lines=AI+%26+Full-Stack+Engineer;GenAI+%2F+RAG+%2F+LangChain+%2F+MCP;Open-source+%2F+YourTomo+creator;Competitive+Programmer+(C%2B%2B)" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prsdx"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -9,7 +13,7 @@
   <a href="https://github.com/prsdx"><img src="https://komarev.com/ghpvc/?username=prsdx&style=for-the-badge&color=6A5AF9" alt="Profile views"></a>
 </p>
 
-## About me
+<img src="https://img.shields.io/badge/-About_Me-6d28d9?style=flat-square&logoColor=white" height="30"/>
 
 > **AI & Full-Stack Engineer** — building production **LLM / RAG** apps and full-stack SaaS, and shipping them.
 
@@ -27,7 +31,7 @@
   <img alt="neko - a pixel cat that reacts to my real GitHub activity" src="https://raw.githubusercontent.com/prsdx/prsdx/main/dist/pet.svg" width="100%">
 </picture>
 
-## Stack
+<img src="https://img.shields.io/badge/-Stack-6d28d9?style=flat-square&logoColor=white" height="30"/>
 
 **Languages**
 
@@ -115,7 +119,7 @@ also: **pgvector** · **IndexedDB**
 
 also: **Railway** · **httpx**
 
-## Featured Projects
+<img src="https://img.shields.io/badge/-Featured_Projects-6d28d9?style=flat-square&logoColor=white" height="30"/>
 
 | Project | What it does | Built with | Links |
 |---|---|---|---|
@@ -124,7 +128,7 @@ also: **Railway** · **httpx**
 | **Blood Donation** | Real-time MERN platform connecting blood banks, donors & patients — role-based dashboards, **Socket.IO** live updates | Express · MongoDB · React · Socket.IO · JWT | [Repo](https://github.com/prsdx/blooddonation) |
 | **First_Agentic_AI** | **Agentic AI** research agent — **LangChain** + **Gemini** tool-calling with live web search for multi-hop questions | Python · LangChain · Gemini API | [Repo](https://github.com/prsdx/First_Agentic_AI) |
 
-## By the Numbers
+<img src="https://img.shields.io/badge/-By_the_Numbers-6d28d9?style=flat-square&logoColor=white" height="30"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prsdx/prsdx/main/dist/langs.svg">
@@ -149,12 +153,22 @@ also: **Railway** · **httpx**
 </td>
 </tr></table>
 
-## Contact
+<img src="https://img.shields.io/badge/-Quote-6d28d9?style=flat-square&logoColor=white" height="30"/>
+
+> *A quote that changes with every blink — because code is also a little bit poetry.*
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3400&pause=2600&color=A78BFA&center=true&vCenter=true&repeat=true&width=860&lines=%22The+quieter+you+become%2C+the+more+you+can+hear+the+compile+errors.%22;%22Good+code+is+self-documenting+%E2%80%94+great+code+is+self-explaining.%22;%22Simplicity+is+the+ultimate+sophistication+in+engineering.%22;%22Every+bug+is+a+conversation+with+your+future+self.%22;%22You+can%27t+RAG+your+way+out+of+a+badly+designed+system.%22" alt="rotating quote" />
+</p>
+
+<img src="https://img.shields.io/badge/-Contact-6d28d9?style=flat-square&logoColor=white" height="30"/>
 
 - **LinkedIn:** [linkedin.com/in/prsdx](https://linkedin.com/in/prsdx)
 - **X:** [@prsd_x](https://x.com/prsd_x)
 - **Email:** prsdx.dev@gmail.com
 - **Codeforces:** [codeforces.com/profile/prsdx](https://codeforces.com/profile/prsdx)
+
+> *"The quieter you become, the more you can hear the compilation errors."*
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prsdx/prsdx/main/dist/isocat.svg">

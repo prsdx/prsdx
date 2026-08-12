@@ -4,16 +4,61 @@
       <stop offset="0" stop-color="#6d28d9"/>
       <stop offset="0.5" stop-color="#2563eb"/>
       <stop offset="1" stop-color="#06b6d4"/>
+      <animate attributeName="x1" values="0;0.14;0" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="y1" values="0;0.14;0" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1;1.14;1" dur="7s" repeatCount="indefinite"/>
+      <animate attributeName="y2" values="1;1.14;1" dur="7s" repeatCount="indefinite"/>
     </linearGradient>
     <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
       <circle cx="2" cy="2" r="1.4" fill="#ffffff" fill-opacity="0.16"/>
     </pattern>
   </defs>
+
+  <!-- flowing animated gradient background -->
   <rect width="1200" height="240" fill="url(#grad)"/>
-  <rect width="1200" height="240" fill="url(#dots)"/>
-  <rect x="0" y="0" width="1200" height="6" fill="#ffffff" opacity="0.28"/>
+
+  <!-- drifting dot grid -->
+  <rect x="0" y="0" width="1200" height="240" fill="url(#dots)">
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- soft light sweep that steadily flows across the banner -->
+  <path d="M-200,-40 L120,-40 L480,280 L160,280 Z" fill="#ffffff" fill-opacity="0.06">
+    <animateTransform attributeName="transform" type="translate" from="-700 0" to="1500 0" dur="8s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- top accent, gently breathing -->
+  <rect x="0" y="0" width="1200" height="6" fill="#ffffff" opacity="0.30">
+    <animateTransform attributeName="transform" type="translate" values="0 0;10 0;0 0" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- flowing waves (two parallax layers) across the bottom -->
+  <g fill="#ffffff">
+    <g fill-opacity="0.09">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="10s" repeatCount="indefinite"/>
+      <path d="M0,222 C100,214 200,230 300,222 C400,214 500,230 600,222 C700,214 800,230 900,222 C1000,214 1100,230 1200,222 C1300,214 1400,230 1500,222 C1600,214 1700,230 1800,222 C1900,214 2000,230 2100,222 C2200,214 2300,230 2400,222 L2400,240 L0,240 Z"/>
+    </g>
+    <g fill-opacity="0.14">
+      <animateTransform attributeName="transform" type="translate" from="-600 0" to="-1800 0" dur="7s" repeatCount="indefinite"/>
+      <path d="M0,230 C100,224 200,236 300,230 C400,224 500,236 600,230 C700,224 800,236 900,230 C1000,224 1100,236 1200,230 C1300,224 1400,236 1500,230 C1600,224 1700,236 1800,230 C1900,224 2000,236 2100,230 C2200,224 2300,236 2400,230 L2400,240 L0,240 Z"/>
+    </g>
+  </g>
+
+  <!-- rising bubbles (subtle flow) -->
+  <g fill="#ffffff" fill-opacity="0.15">
+    <circle cx="140" cy="120" r="3"><animate attributeName="cy" values="140;40;140" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="240" cy="120" r="2"><animate attributeName="cy" values="150;50;150" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="430" cy="120" r="2.5"><animate attributeName="cy" values="160;60;160" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="120" r="2"><animate attributeName="cy" values="150;45;150" dur="6.5s" repeatCount="indefinite"/></circle>
+    <circle cx="930" cy="120" r="3"><animate attributeName="cy" values="160;70;160" dur="7.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1060" cy="120" r="2"><animate attributeName="cy" values="140;50;140" dur="5.5s" repeatCount="indefinite"/></circle>
+  </g>
+
   <text x="600" y="104" text-anchor="middle" font-family="Segoe UI, Ubuntu, -apple-system, Arial, sans-serif" font-size="62" font-weight="800" fill="#ffffff" letter-spacing="1">Shubham Prasad</text>
-  <text x="600" y="146" text-anchor="middle" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="24" fill="#e0e7ff">AI &amp; Full-Stack Engineer</text>
+  <text x="600" y="146" text-anchor="middle" font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="24" fill="#e0e7ff">
+    AI &amp; Full-Stack Engineer
+    <animate attributeName="fill-opacity" values="1;0.65;1" dur="4s" repeatCount="indefinite"/>
+  </text>
   <g font-family="Segoe UI, Ubuntu, Arial, sans-serif" font-size="16" font-weight="600" fill="#ffffff">
     <rect x="414" y="176" width="62" height="34" rx="17" fill="#ffffff" fill-opacity="0.14" stroke="#ffffff" stroke-opacity="0.5"/>
     <rect x="490" y="176" width="56" height="34" rx="17" fill="#ffffff" fill-opacity="0.14" stroke="#ffffff" stroke-opacity="0.5"/>
