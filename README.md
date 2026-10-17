@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/knowprasad/prsdx/main/banner.svg" width="100%" alt="Shubham Prasad - AI & Full-Stack Engineer, LLM, RAG, Full-Stack">
+  <img src="https://raw.githubusercontent.com/knowprasad/knowprasad/main/banner.svg" width="100%" alt="Shubham Prasad - AI & Full-Stack Engineer, LLM, RAG, Full-Stack">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=6D28D9&center=true&vCenter=true&repeat=true&width=820&lines=AI+%26+Full-Stack+Engineer;GenAI+%2F+RAG+%2F+LangChain+%2F+MCP;Open-source+%2F+YourTomo+creator;Competitive+Programmer+(C%2B%2B)" alt="Typing SVG" />
@@ -26,9 +26,9 @@
 - 📬 prsdx.dev@gmail.com · [LinkedIn](https://www.linkedin.com/in/knowprasad) · [@knowprasad](https://x.com/knowprasad)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/knowprasad/prsdx/main/dist/pet.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/knowprasad/prsdx/main/dist/pet-light.svg">
-  <img alt="neko - a pixel cat that reacts to my real GitHub activity" src="https://raw.githubusercontent.com/knowprasad/prsdx/main/dist/pet.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/knowprasad/knowprasad/main/dist/pet.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/knowprasad/knowprasad/main/dist/pet-light.svg">
+  <img alt="neko - a pixel cat that reacts to my real GitHub activity" src="https://raw.githubusercontent.com/knowprasad/knowprasad/main/dist/pet.svg" width="100%">
 </picture>
 
 <img src="https://img.shields.io/badge/-Stack-6d28d9?style=flat-square&logoColor=white" height="30"/>
@@ -113,24 +113,24 @@
 <img src="https://img.shields.io/badge/-By_the_Numbers-6d28d9?style=flat-square&logoColor=white" height="30"/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/knowprasad/prsdx/main/dist/langs.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/knowprasad/prsdx/main/dist/langs-light.svg">
-  <img alt="languages across my public repos - generated from the GitHub API by my own Action" src="https://raw.githubusercontent.com/knowprasad/prsdx/main/dist/langs.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/knowprasad/knowprasad/main/dist/langs.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/knowprasad/knowprasad/main/dist/langs-light.svg">
+  <img alt="languages across my public repos - generated from the GitHub API by my own Action" src="https://raw.githubusercontent.com/knowprasad/knowprasad/main/dist/langs.svg">
 </picture>
 
 <table><tr>
 <td width="50%">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/knowprasad/prsdx/main/profile-summary-card-output/github_dark/3-stats.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/knowprasad/prsdx/main/profile-summary-card-output/default/3-stats.svg">
-  <img alt="github stats - stars, commits, PRs, issues" src="https://raw.githubusercontent.com/knowprasad/prsdx/main/profile-summary-card-output/github_dark/3-stats.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/knowprasad/knowprasad/main/profile-summary-card-output/github_dark/3-stats.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/knowprasad/knowprasad/main/profile-summary-card-output/default/3-stats.svg">
+  <img alt="github stats - stars, commits, PRs, issues" src="https://raw.githubusercontent.com/knowprasad/knowprasad/main/profile-summary-card-output/github_dark/3-stats.svg" width="100%">
 </picture>
 </td>
 <td width="50%">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/knowprasad/prsdx/main/profile-summary-card-output/github_dark/4-productive-time.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/knowprasad/prsdx/main/profile-summary-card-output/default/4-productive-time.svg">
-  <img alt="productive time - commits by hour of day (IST)" src="https://raw.githubusercontent.com/knowprasad/prsdx/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/knowprasad/knowprasad/main/profile-summary-card-output/github_dark/4-productive-time.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/knowprasad/knowprasad/main/profile-summary-card-output/default/4-productive-time.svg">
+  <img alt="productive time - commits by hour of day (IST)" src="https://raw.githubusercontent.com/knowprasad/knowprasad/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="100%">
 </picture>
 </td>
 </tr></table>
@@ -153,9 +153,9 @@
 > *"The quieter you become, the more you can hear the compilation errors."*
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/knowprasad/prsdx/main/dist/isocat.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/knowprasad/prsdx/main/dist/isocat-light.svg">
-  <img alt="my real contribution year as an isometric city with a kitty hopping along the weekly peaks - regenerated every 6h" src="https://raw.githubusercontent.com/knowprasad/prsdx/main/dist/isocat.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/knowprasad/knowprasad/main/dist/isocat.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/knowprasad/knowprasad/main/dist/isocat-light.svg">
+  <img alt="my real contribution year as an isometric city with a kitty hopping along the weekly peaks - regenerated every 6h" src="https://raw.githubusercontent.com/knowprasad/knowprasad/main/dist/isocat.svg" width="100%">
 </picture>
 
 *the cat above is **neko** — both visuals are powered by [YourTomo](https://github.com/knowprasad/YourTomo), a zero-dependency state machine I built that renders my real activity to animated SVG every 6h. if neko is grumpy, that is on me.*
