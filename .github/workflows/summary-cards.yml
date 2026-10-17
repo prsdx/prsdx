@@ -1,4 +1,4 @@
-name: Generate profile summary cards
+name: Update profile assets
 
 on:
   schedule:
@@ -17,6 +17,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v7
+
+      - name: Update neko
+        uses: knowprasad/YourTomo@v1
+        with:
+          username: knowprasad
+          timezone-offset-minutes: "330"   # UTC+5:30 (IST)
+          watched-repos: "YourTomo,platewise-rag,blooddonation"
+          display-name: "Shubham Prasad"
+          pet-name: "neko"
+          contact-line: "prsdx.dev@gmail.com"
+          attribution: "false"
 
       - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
