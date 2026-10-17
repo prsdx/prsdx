@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prsdx/prsdx/main/banner.svg" width="100%" alt="Shubham Prasad - AI & Full-Stack Engineer, LLM, RAG, Full-Stack">
+  <img src="https://raw.githubusercontent.com/knowprasad/prsdx/main/banner.svg" width="100%" alt="Shubham Prasad - AI & Full-Stack Engineer, LLM, RAG, Full-Stack">
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=6D28D9&center=true&vCenter=true&repeat=true&width=820&lines=AI+%26+Full-Stack+Engineer;GenAI+%2F+RAG+%2F+LangChain+%2F+MCP;Open-source+%2F+YourTomo+creator;Competitive+Programmer+(C%2B%2B)" alt="Typing SVG" />
@@ -7,10 +7,10 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prsdx"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/knowprasad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:prsdx.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://x.com/prsd_x"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://github.com/prsdx"><img src="https://komarev.com/ghpvc/?username=prsdx&style=for-the-badge&color=6A5AF9" alt="Profile views"></a>
+  <a href="https://x.com/knowprasad"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://github.com/knowprasad"><img src="https://komarev.com/ghpvc/?username=knowprasad&style=for-the-badge&color=6A5AF9" alt="Profile views"></a>
 </p>
 
 <img src="https://img.shields.io/badge/-About_Me-6d28d9?style=flat-square&logoColor=white" height="30"/>
@@ -23,12 +23,12 @@
 - 🐙 Author of **YourTomo** — an open-source **GitHub Action** (TypeScript · Bun); the pixel cat on this very profile
 - 🥇 **Competitive programmer** (C++) — Codeforces
 - 🎯 **Actively open** to SDE / AI internships and full-stack roles
-- 📬 prsdx.dev@gmail.com · [LinkedIn](https://www.linkedin.com/in/prsdx) · [@prsd_x](https://x.com/prsd_x)
+- 📬 prsdx.dev@gmail.com · [LinkedIn](https://www.linkedin.com/in/knowprasad) · [@knowprasad](https://x.com/knowprasad)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prsdx/prsdx/main/dist/pet.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prsdx/prsdx/main/dist/pet-light.svg">
-  <img alt="neko - a pixel cat that reacts to my real GitHub activity" src="https://raw.githubusercontent.com/prsdx/prsdx/main/dist/pet.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/knowprasad/prsdx/main/dist/pet.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/knowprasad/prsdx/main/dist/pet-light.svg">
+  <img alt="neko - a pixel cat that reacts to my real GitHub activity" src="https://raw.githubusercontent.com/knowprasad/prsdx/main/dist/pet.svg" width="100%">
 </picture>
 
 <img src="https://img.shields.io/badge/-Stack-6d28d9?style=flat-square&logoColor=white" height="30"/>
@@ -105,32 +105,32 @@
 
 | Project | What it does | Built with | Links |
 |---|---|---|---|
-| **PlateWise 2.0** | **RAG**-powered **Generative AI** document-intelligence SaaS — upload PDFs/DOCX/PPTX and ask questions for grounded answers (culinary domain) | FastAPI · React/TS · Supabase **pgvector** · sentence-transformers · Gemini/Groq · Docker | [Live](https://platewise-rag.vercel.app) · [Repo](https://github.com/prsdx/platewise-rag) |
-| **YourTomo** | Open-source **GitHub Action** — a pixel cat on your profile that reacts to real activity (TypeScript · Bun) | TypeScript · Bun · GitHub Actions | [Repo](https://github.com/prsdx/YourTomo) |
-| **Blood Donation** | Real-time MERN platform connecting blood banks, donors & patients — role-based dashboards, **Socket.IO** live updates | Express · MongoDB · React · Socket.IO · JWT | [Repo](https://github.com/prsdx/blooddonation) |
-| **First_Agentic_AI** | **Agentic AI** research agent — **LangChain** + **Gemini** tool-calling with live web search for multi-hop questions | Python · LangChain · Gemini API | [Repo](https://github.com/prsdx/First_Agentic_AI) |
+| **PlateWise 2.0** | **RAG**-powered **Generative AI** document-intelligence SaaS — upload PDFs/DOCX/PPTX and ask questions for grounded answers (culinary domain) | FastAPI · React/TS · Supabase **pgvector** · sentence-transformers · Gemini/Groq · Docker | [Live](https://platewise-rag.vercel.app) · [Repo](https://github.com/knowprasad/platewise-rag) |
+| **YourTomo** | Open-source **GitHub Action** — a pixel cat on your profile that reacts to real activity (TypeScript · Bun) | TypeScript · Bun · GitHub Actions | [Repo](https://github.com/knowprasad/YourTomo) |
+| **Blood Donation** | Real-time MERN platform connecting blood banks, donors & patients — role-based dashboards, **Socket.IO** live updates | Express · MongoDB · React · Socket.IO · JWT | [Repo](https://github.com/knowprasad/blooddonation) |
+| **First_Agentic_AI** | **Agentic AI** research agent — **LangChain** + **Gemini** tool-calling with live web search for multi-hop questions | Python · LangChain · Gemini API | [Repo](https://github.com/knowprasad/First_Agentic_AI) |
 
 <img src="https://img.shields.io/badge/-By_the_Numbers-6d28d9?style=flat-square&logoColor=white" height="30"/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prsdx/prsdx/main/dist/langs.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prsdx/prsdx/main/dist/langs-light.svg">
-  <img alt="languages across my public repos - generated from the GitHub API by my own Action" src="https://raw.githubusercontent.com/prsdx/prsdx/main/dist/langs.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/knowprasad/prsdx/main/dist/langs.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/knowprasad/prsdx/main/dist/langs-light.svg">
+  <img alt="languages across my public repos - generated from the GitHub API by my own Action" src="https://raw.githubusercontent.com/knowprasad/prsdx/main/dist/langs.svg">
 </picture>
 
 <table><tr>
 <td width="50%">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prsdx/prsdx/main/profile-summary-card-output/github_dark/3-stats.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prsdx/prsdx/main/profile-summary-card-output/default/3-stats.svg">
-  <img alt="github stats - stars, commits, PRs, issues" src="https://raw.githubusercontent.com/prsdx/prsdx/main/profile-summary-card-output/github_dark/3-stats.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/knowprasad/prsdx/main/profile-summary-card-output/github_dark/3-stats.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/knowprasad/prsdx/main/profile-summary-card-output/default/3-stats.svg">
+  <img alt="github stats - stars, commits, PRs, issues" src="https://raw.githubusercontent.com/knowprasad/prsdx/main/profile-summary-card-output/github_dark/3-stats.svg" width="100%">
 </picture>
 </td>
 <td width="50%">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prsdx/prsdx/main/profile-summary-card-output/github_dark/4-productive-time.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prsdx/prsdx/main/profile-summary-card-output/default/4-productive-time.svg">
-  <img alt="productive time - commits by hour of day (IST)" src="https://raw.githubusercontent.com/prsdx/prsdx/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/knowprasad/prsdx/main/profile-summary-card-output/github_dark/4-productive-time.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/knowprasad/prsdx/main/profile-summary-card-output/default/4-productive-time.svg">
+  <img alt="productive time - commits by hour of day (IST)" src="https://raw.githubusercontent.com/knowprasad/prsdx/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="100%">
 </picture>
 </td>
 </tr></table>
@@ -145,17 +145,17 @@
 
 <img src="https://img.shields.io/badge/-Contact-6d28d9?style=flat-square&logoColor=white" height="30"/>
 
-- **LinkedIn:** [linkedin.com/in/prsdx](https://linkedin.com/in/prsdx)
-- **X:** [@prsd_x](https://x.com/prsd_x)
+- **LinkedIn:** [linkedin.com/in/knowprasad](https://linkedin.com/in/knowprasad)
+- **X:** [@knowprasad](https://x.com/knowprasad)
 - **Email:** prsdx.dev@gmail.com
 - **Codeforces:** [codeforces.com/profile/prsdx](https://codeforces.com/profile/prsdx)
 
 > *"The quieter you become, the more you can hear the compilation errors."*
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prsdx/prsdx/main/dist/isocat.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prsdx/prsdx/main/dist/isocat-light.svg">
-  <img alt="my real contribution year as an isometric city with a kitty hopping along the weekly peaks - regenerated every 6h" src="https://raw.githubusercontent.com/prsdx/prsdx/main/dist/isocat.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/knowprasad/prsdx/main/dist/isocat.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/knowprasad/prsdx/main/dist/isocat-light.svg">
+  <img alt="my real contribution year as an isometric city with a kitty hopping along the weekly peaks - regenerated every 6h" src="https://raw.githubusercontent.com/knowprasad/prsdx/main/dist/isocat.svg" width="100%">
 </picture>
 
-*the cat above is **neko** — both visuals are powered by [YourTomo](https://github.com/prsdx/YourTomo), a zero-dependency state machine I built that renders my real activity to animated SVG every 6h. if neko is grumpy, that is on me.*
+*the cat above is **neko** — both visuals are powered by [YourTomo](https://github.com/knowprasad/YourTomo), a zero-dependency state machine I built that renders my real activity to animated SVG every 6h. if neko is grumpy, that is on me.*
